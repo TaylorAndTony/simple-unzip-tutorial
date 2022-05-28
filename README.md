@@ -80,17 +80,3 @@
 - 经典老牌压缩软件：`WinRAR`。
 - 部分冷门资料的压缩格式为 `.tar.gz`，通常使用命令行解压。
 
-## 友情链接
-
-<a href="https://www.win-rar.com/start.html?&L=0" style="padding:10px;margin:10px;background:#ff6f00;color:white;border-radius:10px;">点我下载 Win Rar</a>
-
-<a href="https://www.7-zip.org/" style="padding:10px;margin:10px;background:#ff6f00;color:white;border-radius:10px;">点我下载 7-Zip</a>
-
-<a href="http://www.bandisoft.com/" style="padding:10px;margin:10px;background:#ff6f00;color:white;border-radius:10px;">点我下载 Bandi Zip</a>
-
-[BandiZip 官网](http://www.bandisoft.com/)
-
-[7-Zip 官网](https://www.7-zip.org/)
-
-[Win RAR 官网](https://www.win-rar.com/start.html?&L=0)
-
